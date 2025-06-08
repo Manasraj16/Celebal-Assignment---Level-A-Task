@@ -7,7 +7,7 @@ Download AdventureWorks Database:
 
 Go to the Microsoft SQL Server Samples GitHub repository.
 Navigate to samples/databases/adventure-works.
-Download the .bak file for the AdventureWorks 2019 OLTP database. Direct link: [Link Text](AdventureWorks2019.bak)
+Download the .bak file for the AdventureWorks 2019 OLTP database. Direct link: [Link Text](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)
 .
 Restore the AdventureWorks Database:
 
